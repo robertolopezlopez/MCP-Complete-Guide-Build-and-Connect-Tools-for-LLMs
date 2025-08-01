@@ -1,3 +1,0 @@
-[console_scripts]
-chess = chess.server:main
-test = chess.test:main
